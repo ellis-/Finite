@@ -28,7 +28,8 @@
         "symfony/dependency-injection": "~2.1",
         "symfony/framework-bundle":     "~2.1",
         "symfony/security":             "~2.1",
-        "twig/twig":                    "~1.13"
+        "twig/twig":                    "~1.13",
+        "alom/graphviz":                "v1.0.0"
     },
     "suggest": {
         "pimple/pimple":    "Needed for use with PimpleFactory",
